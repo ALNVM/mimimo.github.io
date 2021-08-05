@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Ubuntu:wght@300&display=swap');
+
+.navbar {
+	margin-top: 40px;
+}
+
+.nav-link {
+	margin-right: 50px
+}
+
+.collapse {
+	margin-left: 430px;
+	font-family: 'Playfair Display', serif;
+}
+
+.img-fluid {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 50px;
+	width: 100%
+}
+
+#subheadings {
+	padding-top: 20px;
+	margin: auto;
+	padding-left: 50px;
+	padding-bottom: 20px;
+	font-family: 
+	color: gray;
+}
+
+h2 {
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+}
+
+#subheadingsText {
+	padding-left: 50px;
+	padding-bottom: 50px;
+	font-family: 'Playfair Display', serif;
+	font-size: 16pt;
+}
+
+.container {
+	margin-top: 70px;
+}
+
+.form {
+  width: 100%;
+  float: left;
+  padding-bottom: 70px;
+  padding-top: 70px;
+  padding-left: 90px;
+  padding-right: 90px;
+  background: #f4f4f4;
+}
+
+#email {
+	width: 100%;
+    margin: auto;
+    border: none;
+    outline: none;
+    background-color: #f4f4f4;
+ }
+
+
+
+.carousel-control-next,.carousel-control-prev {
+	width: 20px;
+}
+
+.carousel-control-prev {
+    margin-left: -160px;
+}
+
+.carousel-control-next {
+    margin-right: -160px;
+}
+
+
+
+#btn-plst {
+    background-color: white;
+    border-color: white;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+#playlists {
+	padding-bottom: 80px;
+	padding-top: 40px;
+}
+
+#songName {
+	margin-bottom: 10px;
+	font-family: 'Ubuntu', sans-serif;
+	font-weight: bold;
+}
+
+#songCreate {
+	margin-bottom: 0;
+	color: grey;
+	font-size: 13px;
+	font-family: 'Ubuntu', sans-serif; 
+}
+
+.card-title {
+	margin-bottom: 10px;
+	font-size: 30px;
+	font-weight: bold;
+	font-family: 'Playfair Display', serif;
+
+}
+
+
+
+footer {
+	padding-bottom: 20px;
+	padding-top: 20px;
+	background-color: #f4f4f4;
+}
+
+#footer-right {
+	
+	font-family: 'Playfair Display', serif;
+}
+
+#footer-left {
+	font-family: 'Playfair Display', serif;
+
+}
+
+#f-link {
+	text-decoration: none;
+	color: black;
+}
+
+
+
+
+.input-group {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 50%;
+    margin: auto;
